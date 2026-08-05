@@ -7,4 +7,4 @@ git config user.email varshanpatil252@gmail.com
 git add 
 git commit -m "Webhook commit "
 git log
-Git diff <Pollscm>
+Git diff <Webhook>
