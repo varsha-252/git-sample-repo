@@ -5,6 +5,6 @@ git config --global user.email varshanpatil252@gmail.com
 git config user.name "varsha-252"
 git config user.email varshanpatil252@gmail.com
 git add 
-git commit -m ""
+git commit -m "Pollscm"
 git log
 Git diff <Pollscm>
